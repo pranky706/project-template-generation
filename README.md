@@ -16,5 +16,5 @@ Go to the directory where you want to create the project.
 mvn archetype:generate -DarchetypeGroupId=com.service-provider
     -DarchetypeArtifactId=project-template-generation
     -DarchetypeVersion=1.0.Example
-    -DgroupId=<new project Group Id>
-    -DartifactId=<new project artifact Id>
+    -DgroupId=your new group id
+    -DartifactId=your new artifact Id
