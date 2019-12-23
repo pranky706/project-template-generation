@@ -18,3 +18,4 @@ mvn archetype:generate -DarchetypeGroupId=com.service-provider
     -DarchetypeVersion=1.0.Example
     -DgroupId=your new group id
     -DartifactId=your new artifact Id
+    -Dversion=1.0.SANPSHOT
